@@ -1,6 +1,6 @@
 {
-    "name": "arifa_medikal_klink_3",
-    "short_name": "arifa_medikal_klink_3",
+    "name": "pasien_arifa_medikal",
+    "short_name": "pasien_arifa_medikal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
